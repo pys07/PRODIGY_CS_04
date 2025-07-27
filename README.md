@@ -53,6 +53,10 @@ python keylogger.py
 
 ---
 
+[▶️ Watch Demo](demo/keylogger.mp4)
+
+---
+
 ## 📂 Project Structure
 
 ```
