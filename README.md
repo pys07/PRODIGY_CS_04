@@ -85,4 +85,4 @@ Use responsibly, and only on machines where you have permission.
 
 ## ✍️ Author
 
-Made with ♥ by [Payal](https://github.com/pys07)
+Made with ♥ by [Payal Samant](https://github.com/pys07)
