@@ -1,4 +1,4 @@
-<h2 align="center"> ⌨️ Basic Keylogger - Python Keystroke Logger </h2>
+<h2 align="center"> ⌨️ Simple Keylogger - Python Keystroke Logger </h2>
 
 This is a Python-based **keylogger** that captures and logs keystrokes in real-time and saves them into a text file. Built using the `pynput` library, this project is a beginner-friendly introduction to monitoring keyboard activity.
 
