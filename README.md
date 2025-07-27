@@ -44,7 +44,7 @@ cd PRODIGY_CS_04
 2. Run the script:
 
 ```bash
-python klogger.py
+python keylogger.py
 ```
 
 3. Type something in the terminal or another window
@@ -57,8 +57,7 @@ python klogger.py
 
 ```
 PRODIGY_CS_02/
-├── klogger.py        
-├── key_log.txt       
+├── keylogger.py               
 └── README.md        
 ```
 
